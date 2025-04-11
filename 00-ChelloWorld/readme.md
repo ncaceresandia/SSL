@@ -1,1 +1,1 @@
-x
+--Dentro de esta carpeta "00-ChelloWorld" añadire la resolucion del TP 0, siguiendo el procedimiento adecuado.--
