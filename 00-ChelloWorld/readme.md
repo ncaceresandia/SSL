@@ -4,3 +4,6 @@ El compilador elegido fue el MSYS2,donde la salida de "gcc --version" en el cmd 
 Copyright (C) 2024 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
+
+
+Luego que mi programa escriba en stdout, lo redirijo desde consola hacia un archivo.
