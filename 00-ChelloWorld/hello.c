@@ -1,10 +1,6 @@
 #include <stdio.h>
 
 int main() {
-
-    FILE *f = fopen("output.txt","w");
-    fprintf(f, "Hola Nicolas Caceres!");
-    fclose(f);
-
+    printf("Hola, Nicolas Caceres");
     return 0;
 }
